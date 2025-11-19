@@ -3,3 +3,5 @@
 Aceasta este contribuția Elevului B.
 
 Echipa noastra cea mai buna si se pricepe in toate ce tine de GitHub.
+
+Elev A
